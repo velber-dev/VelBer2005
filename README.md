@@ -14,7 +14,6 @@ My Web Development skills are:
 - BEM methodology
 - JavaScript (Jquery, React)
 - Webpack
-- Node.js
 - CMS (Wordpress, Elementor, Woocommerce)
 - PHP
 - MySQL, SQL
