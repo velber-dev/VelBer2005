@@ -1,5 +1,5 @@
 # Hi!
-# My name is Vlad!
+My name is Vlad!
 I am a professional full stack developer.
 My experience in website development is 4+ years.
 I write neat, cascading and understandable code.
