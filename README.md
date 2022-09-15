@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi!
+My name is Vlad!
+I am a professional full stack developer.
+My experience in website development is 4+ years.
+I write neat, cascading and understandable code.
+I create high-quality websites with animations and adaptivity for all devices (including Galaxy Fold phone with 280px wide screen);
+Apart from websites I can also create HTML email signature.
+If you want your project to be completed on time and meet all your requirements - feel free to contact me!
 
-<!--
-**VelBer2005/VelBer2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Web Development skills are:
+- HTML5 (PUG)
+- CSS3 (SASS/SCSS)
+- Bootstrap
+- BEM methodology
+- JavaScript (Jquery, React)
+- Webpack
+- Node.js
+- CMS (Wordpress, Elementor, Woocommerce)
+- PHP
+- MySQL, SQL
+- Creation HTML email signature
+- SVG/Canvas
