@@ -1,4 +1,4 @@
-# Hi!
+Hi!
 My name is Julia!
 I am a professional full stack developer.
 My experience in website development is 5+ years.
@@ -9,11 +9,12 @@ If you want your project to be completed on time and meet all your requirements 
 
 My Web Development skills are:
 - HTML5
-- CSS3 (SASS/SCSS)
+- CSS3 (SASS/SCSS, Tailwind CSS)
+- Material UI
 - Bootstrap
 - BEM methodology
 - JavaScript (Jquery, React)
-- React ( Next JS, React Native)
+- React (  Next JS, React Native, Redux)
 - TypeScript
 - Webpack
 - PHP
