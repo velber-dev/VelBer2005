@@ -27,8 +27,3 @@
 ● MySQL, SQL
 ● SVG/Canvas
 ● Creation HTML email signature
-
-👌𝐃𝐨𝐞𝐬 𝐭𝐡𝐢𝐬 𝐬𝐨𝐮𝐧𝐝 𝐥𝐢𝐤𝐞 𝐚 𝐟𝐢𝐭? 𝐈𝐟 𝐬𝐨, 𝐬𝐞𝐧𝐝 𝐦𝐞 𝐚 𝐦𝐞𝐬𝐬𝐚𝐠𝐞. 𝐓𝐚𝐩 𝐭𝐡𝐞 "..." 𝐛𝐮𝐭𝐭𝐨𝐧, 𝐭𝐡𝐞𝐧 𝐬𝐞𝐥𝐞𝐜𝐭 𝐭𝐡𝐞 "𝐒𝐞𝐧𝐝 𝐌𝐞𝐬𝐬𝐚𝐠𝐞" 𝐨𝐩𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐡𝐞 𝐭𝐨𝐩 𝐫𝐢𝐠𝐡𝐭-𝐡𝐚𝐧𝐝 𝐜𝐨𝐫𝐧𝐞𝐫.
-
-Key words:
-React developer, React Native developer, Web development, Mobile application development, Front-end, Full-stack, Creating an admin panel, CRM, AI & OpenAI ChatGPT, B2B, SaaS, Tech, Fintech, Healthcare, Biotech, Medtech, Pharma, Crypto, Landing Page, Convert design, Implement design, improve code, fix errors
